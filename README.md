@@ -36,6 +36,7 @@ This code is for educational use only. If you are unsure of its suitability for 
 </details>
 
 ## 📜 About The Project
+<p align="center"> <img src="https://raw.githubusercontent.com/Yash094/excel-wallet-gen/refs/heads/main/public/demo.png" alt="Project Demo" style="max-width: 100%; height: auto;"> </p>
 
 This project is designed to streamline the process of pre-generating in-app wallets for multiple users using an Excel file. By uploading a `.xlsx` file containing email addresses, the application automatically processes the list and generates wallet addresses in bulk.
 
